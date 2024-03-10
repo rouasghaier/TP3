@@ -1,0 +1,16 @@
+
+
+
+1/ equals():
+Fonctionnalité: Compare le contenu exact des deux chaînes, en tenant compte de la casse
+Résultat: Renvoie true si les deux chaînes sont identiques caractère par caractère et false sinon
+
+
+2/ equalsIgnoreCase():
+Fonctionnalité: Compare le contenu des deux chaînes, en ignorant la casse
+Résultat: Renvoie true si les deux chaînes ont le même contenu, même si les lettres majuscules et minuscules sont différentes et false sinon.
+
+
+3/ == et !=:
+Fonctionnalité: Compare l'identité des deux objets, pas leur contenu
+Résultat: Renvoie true si les deux arguments font référence au même objet en mémoire et false sinon
